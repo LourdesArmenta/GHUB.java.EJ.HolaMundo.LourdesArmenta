@@ -1,7 +1,7 @@
 package miPrincipal;
 // Proposito: Calcular la distancia a partir
 // de la velocidad y el tiempo
-// Autor:Maria Lourdes Armenta Lindoro
+// Autor:Maria Litourdes Armenta Lindoro
 // Fecha:12/feb/2024
 import java.util.Scanner;
 public class Distancia {
